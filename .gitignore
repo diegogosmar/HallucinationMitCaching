@@ -1,0 +1,8 @@
+.DS_Store
+__MACOSX/
+*.pyc
+__pycache__/
+.venv/
+*.aux
+*.log
+!v2/data/judge_gemma4_12b_orig_930_failures.log
